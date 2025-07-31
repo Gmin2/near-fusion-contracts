@@ -1,0 +1,5 @@
+/target
+hash_secret.js
+Cargo.lock
+.github/
+.env
