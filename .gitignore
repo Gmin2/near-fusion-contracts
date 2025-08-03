@@ -3,3 +3,7 @@ hash_secret.js
 Cargo.lock
 .github/
 .env
+
+resolver/resolver/node_modules
+resolver/resolver/pnpm-lock.yaml
+resolver/resolver/.env
